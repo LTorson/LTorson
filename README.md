@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<h2> Hi, I'm LTorson!</h2>
+<h3>📊 My Top languages used:</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTorson&layout=compact)
 
 
 <h3>📊 This Week I Spent My Time On:</h3>
@@ -9,3 +11,7 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+![LTorsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeeTorson)
+
+
