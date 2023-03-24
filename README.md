@@ -10,6 +10,10 @@
 
 <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![LTorsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeeTorson)
