@@ -11,7 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        8 hrs 39 mins   ██████████████████▒░░░░░░   73.29 %
+From: 05 August 2018 - To: 27 March 2023
+
+Total Time: 2,227 hrs 33 mins
+
+Other             1,313 hrs 29 mins██████████████▓░░░░░░░░░░   58.97 %
 ```
 
 <!--END_SECTION:waka-->
