@@ -1,13 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-<h3>📊 My Top languages used:</h3>
+## GitHub Stats
+![Github-Stats](https://github-readme-stats.vercel.app/api?username=ltorson&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTorson&layout=compact)
+## 📊 My Most Used Languages:
+![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTorson&layout=compact&langs_count=10)
 
-
-<h3>📊I've Spent My Time On:</h3>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ltorson&show_icons=true&theme=radical&count_private=true", width="300" height="150">
-
+## 📊I've Spent My Overall Time On:
 <!--START_SECTION:waka-->
 
 ```text
@@ -20,6 +19,5 @@ Other             1,313 hrs 29 mins██████████████▓
 
 <!--END_SECTION:waka-->
 
+## My WakaTime breakdown
 ![LTorsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeeTorson)
-
-
