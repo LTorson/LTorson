@@ -20,4 +20,4 @@ Other             1,313 hrs 29 mins██████████████▓
 <!--END_SECTION:waka-->
 
 ## My WakaTime breakdown
-![LTorsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeeTorson)
+![LTorsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leetorson&line_height=21)
