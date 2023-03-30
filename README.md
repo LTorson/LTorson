@@ -12,8 +12,6 @@
 ```text
 From: 23 March 2023 - To: 29 March 2023
 
-Total Time: 23 hrs 3 mins
-
 Other        18 hrs 30 mins  ████████████████████░░░░░   80.28 %
 ```
 
