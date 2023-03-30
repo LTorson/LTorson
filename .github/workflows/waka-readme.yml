@@ -18,7 +18,7 @@ jobs:
           #SHOW_TOTAL: true
           #SHOW_MASKED_TIME: true
           SHOW_LANGUAGE: true
-          LANG_COUNT: 10
+          LANG_COUNT: 100
           SHOW_DAYS_OF_WEEK: true
           SHOW_LANGUAGE_PER_REPO: true
           #TIME_RANGE: all_time
