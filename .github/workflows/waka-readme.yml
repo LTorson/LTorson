@@ -17,4 +17,6 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
+          SHOW_LANGUAGE: true
+          LANG_COUNT: 10
           #TIME_RANGE: all_time
