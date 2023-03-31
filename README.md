@@ -6,7 +6,7 @@
 ## 📊 My Most Used Languages:
 ![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTorson&layout=compact&langs_count=10)
 
-## 📊 Top 10 Overall Time Spent On:
+## 📊 This Weeks Top 10:
 <!--START_SECTION:waka-->
 
 ```text
