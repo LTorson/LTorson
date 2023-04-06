@@ -28,6 +28,3 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## My WakaTime breakdown
-![LTorsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leetorson&line_height=21)
