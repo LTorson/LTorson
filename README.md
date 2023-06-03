@@ -10,14 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 May 2023 - To: 01 June 2023
+From: 26 May 2023 - To: 02 June 2023
 
-Total Time: 21 hrs 5 mins
+Total Time: 19 hrs 14 mins
 
-Other    20 hrs 3 mins   ███████████████████████▓░   95.08 %
-HTML     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-CSHTML   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Binary   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other    18 hrs 12 mins  ███████████████████████▓░   94.58 %
+HTML     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+CSHTML   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
