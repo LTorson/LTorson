@@ -10,16 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2023 - To: 14 June 2023
+From: 08 June 2023 - To: 15 June 2023
 
-Total Time: 4 hrs 1 min
+Total Time: 2 hrs 48 mins
 
-Other        3 hrs 40 mins   ███████████████████████░░   91.34 %
-JavaScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-CSHTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Binary       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        2 hrs 32 mins   ██████████████████████▓░░   90.73 %
+JavaScript   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
