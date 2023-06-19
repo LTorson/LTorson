@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2023 - To: 17 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
-Total Time: 5 hrs 37 mins
+Total Time: 5 hrs 56 mins
 
-Other   5 hrs 7 mins    ██████████████████████▓░░   91.19 %
-HTML    29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Other   5 hrs 26 mins   ███████████████████████░░   91.66 %
+HTML    29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
 Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
