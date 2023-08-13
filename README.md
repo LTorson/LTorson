@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 August 2023 - To: 11 August 2023
+From: 05 August 2023 - To: 12 August 2023
 
-Total Time: 17 hrs 14 mins
+Total Time: 16 hrs 25 mins
 
-Other   17 hrs 6 mins   ████████████████████████▓   99.22 %
-JSON    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Other   16 hrs 17 mins  ████████████████████████▓   99.18 %
+JSON    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
