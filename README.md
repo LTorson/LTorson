@@ -10,11 +10,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Total Time: 16 hrs 31 mins
+Total Time: 17 hrs 7 mins
 
-Other   16 hrs 31 mins  █████████████████████████   100.00 %
+Other        16 hrs 15 mins  ███████████████████████▓░   94.95 %
+SCSS         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JavaScript   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Pug          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
