@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 August 2023 - To: 03 September 2023
+From: 28 August 2023 - To: 04 September 2023
 
-Total Time: 22 hrs 52 mins
+Total Time: 26 hrs 25 mins
 
-Other      21 hrs 12 mins  ███████████████████████▒░   92.68 %
-HTML       1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Other      24 hrs 17 mins  ███████████████████████░░   91.91 %
+HTML       2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
