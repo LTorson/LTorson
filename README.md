@@ -10,17 +10,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-Total Time: 24 hrs 35 mins
+Total Time: 18 hrs 52 mins
 
-Other         22 hrs 27 mins  ██████████████████████▓░░   91.30 %
-HTML          2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-SWIG          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Prolog        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other            17 hrs 13 mins  ██████████████████████▓░░   91.25 %
+HTML             1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+CSHTML           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+SWIG             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Prolog           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Objective-C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
