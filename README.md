@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2018 - To: 13 September 2023
+From: 05 August 2018 - To: 14 September 2023
 
-Total Time: 2,669 hrs 6 mins
+Total Time: 2,674 hrs 53 mins
 
-Other             1,689 hrs 57 mins███████████████▓░░░░░░░░░   63.32 %
-HTML              479 hrs 13 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-JavaScript        117 hrs 42 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-SCSS              84 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Text              82 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Other             1,695 hrs 4 mins████████████████░░░░░░░░░   63.37 %
+HTML              479 hrs 52 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
+JavaScript        117 hrs 42 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+SCSS              84 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Text              82 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 CSHTML            51 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 JSON              34 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 Vue.js            28 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
