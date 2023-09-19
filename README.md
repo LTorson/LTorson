@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2018 - To: 17 September 2023
+From: 05 August 2018 - To: 18 September 2023
 
-Total Time: 2,678 hrs 18 mins
+Total Time: 2,681 hrs 30 mins
 
-Other             1,698 hrs 18 mins████████████████░░░░░░░░░   63.41 %
-HTML              479 hrs 52 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+Other             1,701 hrs 29 mins████████████████░░░░░░░░░   63.45 %
+HTML              479 hrs 52 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
 JavaScript        117 hrs 42 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 SCSS              84 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 Text              82 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
