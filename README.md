@@ -10,18 +10,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2018 - To: 19 September 2023
+From: 05 August 2018 - To: 20 September 2023
 
-Total Time: 2,687 hrs 5 mins
+Total Time: 2,691 hrs 25 mins
 
-Other             1,705 hrs 55 mins████████████████░░░░░░░░░   63.49 %
-HTML              480 hrs 4 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-JavaScript        117 hrs 42 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Other             1,709 hrs 39 mins████████████████░░░░░░░░░   63.52 %
+HTML              480 hrs 27 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+JavaScript        117 hrs 42 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 SCSS              84 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 Text              82 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-CSHTML            51 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+CSHTML            52 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 JSON              35 hrs 2 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Vue.js            28 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Vue.js            28 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 C#                26 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Pug               26 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 CSS               24 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
