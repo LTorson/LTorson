@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2018 - To: 30 September 2023
+From: 05 August 2018 - To: 01 October 2023
 
 Total Time: 2,724 hrs 1 min
 
