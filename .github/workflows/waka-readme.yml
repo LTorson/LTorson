@@ -8,11 +8,12 @@ on:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: LTorson/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.WAKATIMETOKEN }}
           SHOW_TITLE: true
           #TIME_RANGE: last_7_days
           SHOW_TOTAL: true
