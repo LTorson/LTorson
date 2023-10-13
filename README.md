@@ -10,20 +10,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
-Total Time: 18 hrs 56 mins
+Total Time: 21 hrs 56 mins
 
-Other         16 hrs 16 mins  █████████████████████▒░░░   85.94 %
-HTML          1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-CSHTML        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-SWIG          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Prolog        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-GDScript3     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other        19 hrs 36 mins  ██████████████████████▒░░   89.41 %
+HTML         1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+CSHTML       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Prolog       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+GDScript3    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
