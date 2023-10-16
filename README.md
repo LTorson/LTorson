@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2023 - To: 14 October 2023
+From: 08 October 2023 - To: 15 October 2023
 
-Total Time: 20 hrs 2 mins
+Total Time: 18 hrs 21 mins
 
-Other    18 hrs 1 min    ██████████████████████▒░░   89.96 %
-HTML     1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-CSHTML   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Prolog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other    16 hrs 20 mins  ██████████████████████▒░░   89.04 %
+HTML     1 hr 56 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+CSHTML   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Prolog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
