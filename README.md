@@ -10,18 +10,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-Total Time: 22 hrs 54 mins
+Total Time: 26 hrs 50 mins
 
-Other         19 hrs 48 mins  █████████████████████▓░░░   86.45 %
-HTML          2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-Pug           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-CSHTML        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-SWIG          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other         23 hrs 27 mins  ██████████████████████░░░   87.37 %
+HTML          2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+SWIG          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Pug           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+CSHTML        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 Prolog        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
