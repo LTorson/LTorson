@@ -10,15 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2023 - To: 29 October 2023
+From: 23 October 2023 - To: 30 October 2023
 
-Total Time: 22 hrs 29 mins
+Total Time: 22 hrs 5 mins
 
-Other      19 hrs 27 mins  █████████████████████▓░░░   86.52 %
-HTML       2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-CSHTML     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Binary     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other    16 hrs 4 mins   ██████████████████▒░░░░░░   72.76 %
+HTML     5 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+CSHTML   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Binary   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
