@@ -14,7 +14,11 @@ From: 14 November 2023 - To: 20 November 2023
 
 Total Time: 25 hrs 25 mins
 
-No activity tracked
+Other    23 hrs 41 mins  ███████████████████████▒░   93.18 %
+HTML     1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+CSHTML   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Binary   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C#       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
