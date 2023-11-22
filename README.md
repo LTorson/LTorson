@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2023 - To: 20 November 2023
+From: 15 November 2023 - To: 21 November 2023
 
-Total Time: 25 hrs 25 mins
+Total Time: 23 hrs 59 mins
 
-Other    23 hrs 41 mins  ███████████████████████▒░   93.18 %
-HTML     1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-CSHTML   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Binary   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other    22 hrs 14 mins  ███████████████████████▒░   92.72 %
+HTML     1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+CSHTML   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Binary   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 C#       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
