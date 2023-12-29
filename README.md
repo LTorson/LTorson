@@ -10,17 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 27 December 2023
+From: 22 December 2023 - To: 28 December 2023
 
-Total Time: 6 hrs 14 mins
+Total Time: 1 hr 29 mins
 
-Other      5 hrs 22 mins   █████████████████████▒░░░   85.92 %
-Binary     24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-JSON       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-C#         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-CSHTML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other   1 hr 27 mins    ████████████████████████▓   98.07 %
+C#      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
