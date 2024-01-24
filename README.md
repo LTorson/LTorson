@@ -10,17 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 22 January 2024
+From: 17 January 2024 - To: 23 January 2024
 
-Total Time: 6 hrs 28 mins
+Total Time: 2 hrs 25 mins
 
-Other        5 hrs 30 mins   █████████████████████▒░░░   85.11 %
-Binary       40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-CSHTML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other        1 hr 52 mins    ███████████████████▒░░░░░   77.56 %
+Binary       24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+Text         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
