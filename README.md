@@ -10,11 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 13 February 2024
+From: 08 February 2024 - To: 14 February 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 35 mins
 
-No activity tracked
+Binary   1 hr 1 min      ████████████████░░░░░░░░░   63.99 %
+JSON     19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.86 %
+Other    9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+XML      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
