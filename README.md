@@ -10,16 +10,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2024 - To: 28 February 2024
+From: 23 February 2024 - To: 29 February 2024
 
-Total Time: 3 hrs 42 mins
+Total Time: 6 hrs 30 mins
 
-C#           3 hrs 12 mins   █████████████████████▓░░░   86.46 %
-Binary       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C#           4 hrs 21 mins   ████████████████▓░░░░░░░░   66.94 %
+Binary       1 hr 2 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+JSON         51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+XML          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+CSHTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
