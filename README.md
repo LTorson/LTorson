@@ -10,13 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 13 March 2024
+From: 08 March 2024 - To: 14 March 2024
 
-Total Time: 16 mins
+Total Time: 2 hrs 24 mins
 
-Binary   7 mins          ████████████░░░░░░░░░░░░░   48.62 %
-CSHTML   6 mins          ██████████▓░░░░░░░░░░░░░░   42.69 %
-HTML     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+HTML   2 hrs 24 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
