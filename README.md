@@ -10,18 +10,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2024 - To: 27 March 2024
+From: 22 March 2024 - To: 28 March 2024
 
-Total Time: 21 hrs 59 mins
+Total Time: 20 hrs 46 mins
 
-CSHTML       12 hrs 59 mins  ██████████████▓░░░░░░░░░░   59.08 %
-HTML         3 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-C#           3 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-Binary       2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Image        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+CSHTML       9 hrs 21 mins   ███████████▒░░░░░░░░░░░░░   45.06 %
+HTML         7 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   36.69 %
+C#           2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Binary       1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
