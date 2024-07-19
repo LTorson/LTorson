@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2024 - To: 17 July 2024
+From: 11 July 2024 - To: 18 July 2024
 
-Total Time: 10 hrs 6 mins
+Total Time: 10 hrs 5 mins
 
-HTML     8 hrs 38 mins   █████████████████████▒░░░   85.49 %
-Other    47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+HTML     8 hrs 37 mins   █████████████████████▒░░░   85.48 %
+Other    47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
 CSHTML   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 Binary   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 CSS      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
