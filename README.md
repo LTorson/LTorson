@@ -13,11 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2024 - To: 04 August 2024
+From: 29 July 2024 - To: 05 August 2024
 
-Total Time: 0 secs
+Total Time: 4 hrs 30 mins
 
-No activity tracked
+Binary       1 hr 59 mins    ███████████░░░░░░░░░░░░░░   44.03 %
+C#           1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   32.76 %
+CSHTML       46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+JSON         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
