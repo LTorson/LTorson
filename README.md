@@ -13,13 +13,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2024 - To: 10 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Total Time: 3 hrs 59 mins
+Total Time: 5 hrs 40 mins
 
-HTML    2 hrs 35 mins   ████████████████▒░░░░░░░░   64.80 %
-Text    1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   30.53 %
-Other   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+HTML         2 hrs 35 mins   ███████████▒░░░░░░░░░░░░░   45.55 %
+Text         56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+JavaScript   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+JSON         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Markdown     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Other        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Binary       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+INI          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+C#           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
