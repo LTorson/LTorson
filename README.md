@@ -13,17 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2024 - To: 26 September 2024
+From: 20 September 2024 - To: 27 September 2024
 
-Total Time: 6 hrs 22 mins
+Total Time: 2 hrs 33 mins
 
-C#       2 hrs 32 mins   ██████████░░░░░░░░░░░░░░░   39.97 %
-HTML     1 hr 57 mins    ███████▓░░░░░░░░░░░░░░░░░   30.80 %
-Binary   1 hr 27 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-CSHTML   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML     1 hr 43 mins    █████████████████░░░░░░░░   67.71 %
+C#       30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+Binary   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+CSHTML   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
