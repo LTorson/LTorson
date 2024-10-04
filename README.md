@@ -13,19 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2024 - To: 02 October 2024
+From: 26 September 2024 - To: 03 October 2024
 
-Total Time: 2 hrs 47 mins
+Total Time: 3 hrs 7 mins
 
-HTML         2 hrs 4 mins    ██████████████████▓░░░░░░   74.25 %
-C#           17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Binary       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+HTML         2 hrs 58 mins   ████████████████████████░   95.52 %
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
