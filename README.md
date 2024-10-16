@@ -13,14 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2024 - To: 14 October 2024
+From: 08 October 2024 - To: 15 October 2024
 
-Total Time: 5 hrs 36 mins
+Total Time: 5 hrs 1 min
 
-HTML         4 hrs 50 mins   █████████████████████▓░░░   86.26 %
-Pug          36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+HTML         4 hrs 15 mins   █████████████████████░░░░   84.64 %
+Pug          36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
