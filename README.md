@@ -13,12 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 12 November 2024
+From: 07 November 2024 - To: 13 November 2024
 
-Total Time: 7 hrs 48 mins
+Total Time: 7 hrs 44 mins
 
-HTML     7 hrs 44 mins   ████████████████████████▓   99.03 %
-C#       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+HTML     7 hrs 44 mins   █████████████████████████   99.93 %
 CSHTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
