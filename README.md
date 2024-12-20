@@ -13,15 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 18 December 2024
+From: 13 December 2024 - To: 19 December 2024
 
-Total Time: 14 mins
+Total Time: 1 hr 56 mins
 
-Other    5 mins          █████████░░░░░░░░░░░░░░░░   35.74 %
-CSS      4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.89 %
-Text     4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-E-mail   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML       1 hr 30 mins    ███████████████████▒░░░░░   77.58 %
+Markdown   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Other      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+CSS        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Text       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+E-mail     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
