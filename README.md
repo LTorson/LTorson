@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 15 January 2025
+From: 10 January 2025 - To: 16 January 2025
 
-Total Time: 39 mins
+Total Time: 1 hr 54 mins
 
-HTML     39 mins         ████████████████████████▓   98.59 %
-Binary   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+HTML   1 hr 54 mins    █████████████████████████   99.84 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
