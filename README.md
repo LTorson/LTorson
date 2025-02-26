@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 24 February 2025
+From: 19 February 2025 - To: 25 February 2025
 
-Total Time: 1 hr 48 mins
+Total Time: 58 mins
 
-HTML         53 mins         ████████████░░░░░░░░░░░░░   48.65 %
-CSHTML       26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-Other        13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Binary       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-JavaScript   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-C#           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+CSHTML       26 mins         ███████████▒░░░░░░░░░░░░░   44.81 %
+Binary       8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+HTML         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Other        7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+JavaScript   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+C#           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
