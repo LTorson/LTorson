@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2025 - To: 12 March 2025
+From: 07 March 2025 - To: 13 March 2025
 
-Total Time: 23 mins
+Total Time: 21 mins
 
-HTML    18 mins         ███████████████████▓░░░░░   79.11 %
-Other   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+HTML     18 mins         ██████████████████████░░░   87.48 %
+CSHTML   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
 ```
 
 <!--END_SECTION:waka-->
