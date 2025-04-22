@@ -13,15 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-Total Time: 2 hrs 40 mins
+Total Time: 0 secs
 
-CSHTML   2 hrs 3 mins    ███████████████████▒░░░░░   76.95 %
-C#       17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Binary   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-JSON     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
