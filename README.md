@@ -13,12 +13,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 06 May 2025 - To: 13 May 2025
 
-Total Time: 4 hrs 21 mins
+Total Time: 5 hrs 29 mins
 
-HTML    4 hrs 18 mins   ████████████████████████▓   99.13 %
-Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+HTML         4 hrs 37 mins   █████████████████████░░░░   84.32 %
+Binary       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+C#           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+CSHTML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
