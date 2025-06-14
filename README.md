@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2025 - To: 12 June 2025
+From: 06 June 2025 - To: 13 June 2025
 
-Total Time: 6 hrs 52 mins
+Total Time: 9 hrs 41 mins
 
-HTML         2 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 %
-CSHTML       1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-C#           1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
-Binary       1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+HTML         5 hrs 10 mins   █████████████▒░░░░░░░░░░░   53.33 %
+CSHTML       1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
+C#           1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Binary       1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
