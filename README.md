@@ -13,14 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2025 - To: 29 June 2025
+From: 23 June 2025 - To: 30 June 2025
 
-Total Time: 59 mins
+Total Time: 1 hr 6 mins
 
-CSHTML   32 mins         █████████████▓░░░░░░░░░░░   55.19 %
-HTML     20 mins         ████████▓░░░░░░░░░░░░░░░░   34.40 %
-C#       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C#       34 mins         █████████████░░░░░░░░░░░░   51.98 %
+CSHTML   28 mins         ███████████░░░░░░░░░░░░░░   43.47 %
+Binary   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
