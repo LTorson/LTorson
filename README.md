@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2025 - To: 23 July 2025
+From: 17 July 2025 - To: 24 July 2025
 
-Total Time: 11 mins
+Total Time: 1 hr 4 mins
 
-Markdown   7 mins          ███████████████░░░░░░░░░░   59.68 %
-EJS        3 mins          ███████░░░░░░░░░░░░░░░░░░   28.05 %
-C#         1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Binary     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-CSHTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+HTML       46 mins         █████████████████▓░░░░░░░   70.92 %
+Markdown   18 mins         ███████░░░░░░░░░░░░░░░░░░   28.47 %
+Binary     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+CSHTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
