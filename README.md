@@ -13,13 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 14 mins
+Total Time: 2 mins
 
-EJS          9 mins          ███████████████░░░░░░░░░░   60.62 %
-HTML         4 mins          ███████░░░░░░░░░░░░░░░░░░   27.34 %
-JavaScript   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+HTML   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
