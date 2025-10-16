@@ -13,13 +13,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 47 mins
+Total Time: 4 hrs 11 mins
 
-CSHTML   27 mins         ██████████████▓░░░░░░░░░░   58.70 %
-HTML     18 mins         █████████▓░░░░░░░░░░░░░░░   38.79 %
-C#       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+CSHTML   2 hrs 32 mins   ███████████████░░░░░░░░░░   60.53 %
+HTML     29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+C#       26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+JSON     25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Other    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Binary   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Text     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
