@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 12 January 2026
+From: 07 January 2026 - To: 13 January 2026
 
-Total Time: 3 hrs 10 mins
+Total Time: 4 hrs 4 mins
 
-HTML       2 hrs 47 mins   ██████████████████████░░░   88.16 %
-Markdown   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+HTML       3 hrs 42 mins   ██████████████████████▓░░   90.78 %
+Markdown   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
