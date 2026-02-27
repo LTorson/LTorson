@@ -13,14 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 25 February 2026
+From: 20 February 2026 - To: 26 February 2026
 
-Total Time: 1 hr 36 mins
+Total Time: 2 hrs
 
-HTML       1 hr 22 mins    █████████████████████▒░░░   85.19 %
-CSHTML     11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Binary     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+HTML       1 hr 22 mins    █████████████████░░░░░░░░   68.14 %
+Binary     21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+CSHTML     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+C#         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
