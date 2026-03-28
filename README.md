@@ -13,15 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2026 - To: 26 March 2026
+From: 21 March 2026 - To: 27 March 2026
 
-Total Time: 33 mins
+Total Time: 29 mins
 
-HTML         29 mins         ██████████████████████░░░   87.55 %
-Bash         3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+HTML   29 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
