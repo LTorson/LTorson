@@ -13,14 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2026 - To: 30 April 2026
+From: 24 April 2026 - To: 01 May 2026
 
-Total Time: 2 hrs 12 mins
+Total Time: 1 hr 42 mins
 
-HTML     1 hr 42 mins    ███████████████████▒░░░░░   77.06 %
-Binary   20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-C#       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+HTML   1 hr 42 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
