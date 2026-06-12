@@ -13,14 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 10 June 2026
+From: 04 June 2026 - To: 11 June 2026
 
-Total Time: 20 mins
+Total Time: 1 hr 26 mins
 
-C#       7 mins          █████████▒░░░░░░░░░░░░░░░   37.65 %
-Binary   7 mins          █████████░░░░░░░░░░░░░░░░   35.86 %
-CSHTML   4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+HTML     1 hr 22 mins    ███████████████████████▓░   94.45 %
+CSHTML   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
