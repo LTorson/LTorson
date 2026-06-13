@@ -13,12 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-Total Time: 1 hr 26 mins
+Total Time: 2 hrs 41 mins
 
-HTML     1 hr 22 mins    ███████████████████████▓░   94.45 %
-CSHTML   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+HTML        2 hrs 36 mins   ████████████████████████▒   96.73 %
+CSHTML      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+iCalendar   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
