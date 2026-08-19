@@ -13,11 +13,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2026 - To: 17 August 2026
+From: 11 August 2026 - To: 18 August 2026
 
-Total Time: 0 secs
+Total Time: 1 hr 47 mins
 
-Bash   0 secs          █████████████████████████   100.00 %
+C#           1 hr 4 mins     ███████████████░░░░░░░░░░   59.67 %
+CSHTML       20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+JSON         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Git Config   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Binary       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Ruby         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
