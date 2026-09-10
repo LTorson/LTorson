@@ -13,18 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2026 - To: 08 September 2026
+From: 02 September 2026 - To: 09 September 2026
 
-Total Time: 3 hrs 13 mins
+Total Time: 2 hrs 45 mins
 
-HTML     2 hrs 45 mins   █████████████████████▒░░░   85.36 %
-C#       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-CSHTML   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Binary   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+HTML    2 hrs 45 mins   █████████████████████████   99.61 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
