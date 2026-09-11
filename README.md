@@ -13,13 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 2 hrs 45 mins
+Total Time: 2 hrs 41 mins
 
-HTML    2 hrs 45 mins   █████████████████████████   99.61 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+HTML   2 hrs 41 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
