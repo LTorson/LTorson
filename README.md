@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## GitHub Stats
-![Github-Stats]([https://github-stats-extended.vercel.app/api?username=ltorson&show_icons=true&theme=radical&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage](https://github-stats-extended.vercel.app/api?username=LTorson&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github))
+![Github-Stats](https://github-stats-extended.vercel.app/api?username=LTorson&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
 
 
 ## 📊 My Most Used Languages:
